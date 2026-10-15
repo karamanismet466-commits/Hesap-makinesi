@@ -59,6 +59,6 @@ class Program
     }
 }
 
-
+// 2 class a ayırmamın sebebi class sistemini anladığımı gösterebilmek eğer ki tek class da yapmak istesem get set kısmını public static int ve privare static int olarak yazıp static void main ile class program arasına yazardım
 
 
